@@ -16,7 +16,7 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd Gatsby.js-Boilerplate
+    cd gatsby-boilerplate
     npm run develop
     ```
 
